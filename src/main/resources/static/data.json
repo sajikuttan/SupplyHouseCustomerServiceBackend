@@ -1,0 +1,23 @@
+{
+  "defaultHours": {
+    "Monday": "8:00 AM - 7:45 PM",
+    "Tuesday": "8:00 AM - 7:45 PM",
+    "Wednesday": "8:00 AM - 7:45 PM",
+    "Thursday": "8:00 AM - 7:45 PM",
+    "Friday": "9:00 AM - 7:45 PM",
+    "Saturday": "9:00 AM - 5:45 PM",
+    "Sunday": "9:00 AM - 5:45 PM"
+  },
+  "specialHours": [
+    {
+      "date": "2024-12-25",
+      "hours": "Closed",
+      "message": "Holiday Closure"
+    },
+    {
+      "date": "2024-11-30",
+      "hours": "10:00 AM - 4:00 PM",
+      "message": "Internal Meeting"
+    }
+  ]
+}
